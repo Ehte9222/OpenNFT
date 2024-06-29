@@ -1,0 +1,1 @@
+chrome-extension://cdiecbgkdbkloiniekbfblbdbjgehpgb/scripts/floating-ui/core.js

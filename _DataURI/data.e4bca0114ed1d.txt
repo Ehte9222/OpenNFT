@@ -1,0 +1,1 @@
+chrome-extension://opogloaldjiplhogobhmghlgnlciebin/javascript/libs.min.js
